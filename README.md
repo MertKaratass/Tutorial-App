@@ -10,9 +10,9 @@ This web application serves as a platform for managing and presenting tutorials.
 - Styled with Bootstrap.
   
 ## Contact
-- Yazar: [Doğancan KARATAŞ]
-- LinkedIn: [https://www.linkedin.com/in/dogancan-karatas/]
-- E-posta: [karatasdgncn21@gmail.com]
+- Yazar: [Mert KARATAŞ]
+- LinkedIn: [https://www.linkedin.com/in/mert-karatass/]
+- E-posta: [karatasmert255@gmail.com]
 
 
 ### API ENDPOINTS
